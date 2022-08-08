@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=BookStoreWebsite/C:\/Users\/phamn\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.2.18.Final\/hibernate-core-5.2.18.Final.jar=/maven.pomderived=/true=/=/org.eclipse.jst.component.dependency=/\/WEB-INF\/lib=/=/maven.pomderived=/true=/=/org.eclipse.jst.component.archivename=/hibernate-core-5.2.18.Final.jar=/=/maven.groupId=/org.hibernate=/=/maven.artifactId=/hibernate-core=/=/maven.version=/5.2.18.Final=/=/maven.scope=/compile=/&lt;org.hibernate.boot.model(IdGeneratorStrategyInterpreter$GeneratorNameDeterminationContext.class[GeneratorNameDeterminationContext" modifiers="1545" timestamp="1656379374741"/>
+<typeInfo handle="=BookStoreWebsite/test=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;com.bookstore.entity{Calculator.java[Calculator" modifiers="1" timestamp="1656391065031"/>
+<typeInfo handle="=BookStoreWebsite/src=/optional=/true=/=/maven.pomderived=/true=/&lt;com.bookstore.dao{CategoryDAO.java[CategoryDAO" modifiers="1" timestamp="1657080618539"/>
+<typeInfo handle="=BookStoreWebsite/src=/optional=/true=/=/maven.pomderived=/true=/&lt;com.bookstore.dao{JpaDAO.java[JpaDAO" modifiers="1" timestamp="1657164294428"/>
+<typeInfo handle="=BookStoreWebsite/src=/optional=/true=/=/maven.pomderived=/true=/&lt;com.bookstore.dao{GenericDAO.java[GenericDAO" modifiers="513" timestamp="1657033837739"/>
+<typeInfo handle="=BookStoreWebsite/test=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;com.bookstore.dao{BaseDAOTest.java[BaseDAOTest" modifiers="1" timestamp="1657035283600"/>
+<typeInfo handle="=BookStoreWebsite/src=/optional=/true=/=/maven.pomderived=/true=/&lt;com.bookstore.controller{BaseServlet.java[BaseServlet" modifiers="1025" timestamp="1657101133496"/>
+</typeInfoHistroy>
